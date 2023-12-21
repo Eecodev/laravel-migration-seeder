@@ -4,7 +4,7 @@
 
 @section('content')
 <main class="container">
-    <h1>Trains</h1>
+    <h1>Trains Overview</h1>
     <table class="table">
         <thead>
           <tr>
