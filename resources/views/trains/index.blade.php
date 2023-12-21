@@ -3,7 +3,7 @@
 @section('title', 'Trains')
 
 @section('content')
-<main>
+<main class="container">
     <h1>Trains</h1>
     <table class="table">
         <thead>
@@ -13,9 +13,9 @@
             <th scope="col">Arriving At</th>
             <th scope="col">Departure time</th>
             <th scope="col">Arrival Time</th>
-            <th scope="col">Train Number</th>
+            <th scope="col">Train n.</th>
             <th scope="col">Handle</th>
-            <th scope="col">Railroad car number</th>
+            <th scope="col">Car n.</th>
             <th scope="col">On time</th>
             <th scope="col">Cancelled</th>
           </tr>

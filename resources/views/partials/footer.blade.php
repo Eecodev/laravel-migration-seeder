@@ -1,1 +1,1 @@
-<div>footer</div>
+<div class="container">Footer</div>
